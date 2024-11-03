@@ -1,3 +1,3 @@
 function testfunc()
-disp("h ello here and there and everywhere  ");
+disp("h aello here and there and everywhere  ");
 end
