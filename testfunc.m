@@ -1,3 +1,3 @@
 function testfunc()
-disp("h  fdsa fdsffdfello here and there and everywhere  ");
+disp("hello from MATLAB");
 end
