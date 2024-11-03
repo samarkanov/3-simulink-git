@@ -1,1 +1,1 @@
-1. Test Project and Something
+1. Test Project
